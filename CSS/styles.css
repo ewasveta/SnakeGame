@@ -67,6 +67,7 @@ body
     z-index: 5;
     position: relative;
     background:  khaki;
+    border-radius: 25%;
 }
 .food 
 {
